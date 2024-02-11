@@ -1,1 +1,1 @@
-Delphi Template (GitLab)
+Delphi Template (GitHub)
